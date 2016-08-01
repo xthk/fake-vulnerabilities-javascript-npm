@@ -1,0 +1,8 @@
+{
+  "name": "example-npm-javascript",
+  "version": "0.0.1",
+  "dependencies": {
+    "ms": "0.7.0"
+  }
+}
+
